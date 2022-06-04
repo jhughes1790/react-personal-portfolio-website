@@ -19,7 +19,7 @@ function ProjectDisplay() {
       </p>
 
 
-      <GitHubIcon />
+      
     </div>
   );
 }

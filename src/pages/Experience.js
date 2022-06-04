@@ -70,9 +70,9 @@ function Experience() {
             Dalton, GA
           </h4>
           <p>
-            Reconciled Medication Profiles for admitted patients. 
-            Assessed new admissions for readdmision risk. 
-            Worked with physicians and hospital pharmacy to provide 
+            Reconciled Medication Profiles for admitted patients.
+            Assessed new admissions for readdmision risk.
+            Worked with physicians and hospital pharmacy to provide
             the most cost effective prescriptions for discharged patients.
           </p>
         </VerticalTimelineElement>
