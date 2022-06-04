@@ -10,30 +10,36 @@ export const ProjectList = [
     name: "Dijkstra Algorithm Visualizer",
     image: Proj1,
     skills: "JavaScript,HTML,CSS",
+    link: "www.google.com"
   },
   {
     name: "Ecommerce Website",
     image: Proj2,
     skills: "React,Node.js,MongoDB",
+    link: "www.google.com"
   },
   {
     name: "Spotify Clone",
     image: Proj3,
     skills: "React,Node.js,MongoDB,SpotifyAPI",
+    link: "www.google.com"
   },
   {
     name: "Social Media Website",
     image: Proj4,
     skills: "React,Node.js,MySQL,GraphQL",
+    link: "www.google.com"
   },
   {
     name: "Dashboard Visualizer",
     image: Proj5,
     skills: "JavaScript,HTML,CSS",
+    link: "www.google.com"
   },
   {
     name: "Mobile Game",
     image: Proj6,
     skills: "React Native,JavaScript,HTML,CSS",
+    link: "www.google.com"
   },
 ];
