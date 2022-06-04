@@ -13,61 +13,67 @@ function Experience() {
       <VerticalTimeline lineColor="#3e497a">
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
-          date="2010 - 2014"
+          date="March 2022 - July 2022"
           iconStyle={{ background: "#3e497a", color: "#fff" }}
           icon={<SchoolIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            My Random High School, Random Place, Random State
+            Nucamp Fullstack Bootcamp
           </h3>
-          <p> High School Diploma</p>
+          <p> Frontend, Backend, && Mobile Development</p>
+         
         </VerticalTimelineElement>
+
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
-          date="2014 - 2018"
+          date="2019 - Present"
           iconStyle={{ background: "#3e497a", color: "#fff" }}
           icon={<SchoolIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            My Cool University, Vancouver, British Columbia
+          Belhaven University
           </h3>
 
           <h4 className="vertical-timeline-element-subtitle">
-            Bachelor's Degree
+            Bachelor's Degree in Business Administration
           </h4>
 
-          <p> Computer Science</p>
-        </VerticalTimelineElement>
-        <VerticalTimelineElement
-          className="vertical-timeline-element--work"
-          date="2018 - 2020"
-          iconStyle={{ background: "#e9d35b", color: "#fff" }}
-          icon={<WorkIcon />}
-        >
-          <h3 className="vertical-timeline-element-title">
-            Back End Engineer - Google
-          </h3>
-          <h4 className="vertical-timeline-element-subtitle">
-            San Francisco, CA
-          </h4>
-          <p>Developed the backend infrastructure for 3 projects.</p>
+          <p> Bachelor's in Business Administration</p>
+          <p className="small">**Not yet complete**</p>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
-          date="2020 - present"
+          date="2017 - Present"
           iconStyle={{ background: "#e9d35b", color: "#fff" }}
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Full Stack Engineer - Twitch
+            Adminstrator - Community Hospice 
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
-            San Francisco, CA
+            Dalton, GA
+          </h4>
+          <p>Responsible for all staff, patients, and operations.</p>
+        </VerticalTimelineElement>
+
+        <VerticalTimelineElement
+          className="vertical-timeline-element--work"
+          date="2012 - 2017"
+          iconStyle={{ background: "#e9d35b", color: "#fff" }}
+          icon={<WorkIcon />}
+        >
+          <h3 className="vertical-timeline-element-title">
+            Clinical Pharmacy Technician - Hamilton Medical Center
+          </h3>
+          <h4 className="vertical-timeline-element-subtitle">
+            Dalton, GA
           </h4>
           <p>
-            Helped the team launch 2 major features by working both in the front
-            end and back end.
+            Reconciled Medication Profiles for admitted patients. 
+            Assessed new admissions for readdmision risk. 
+            Worked with physicians and hospital pharmacy to provide 
+            the most cost effective prescriptions for discharged patients.
           </p>
         </VerticalTimelineElement>
       </VerticalTimeline>
