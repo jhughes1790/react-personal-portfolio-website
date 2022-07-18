@@ -15,9 +15,9 @@ function Home() {
   return (
     <div className="home">
       <div className="about">
-        <h2> Hello, my name is Jamie.</h2>
+        <h2> Hello, my name is Master Yoda.</h2>
         <div className="prompt">
-          <p>I am a software developer with a passion for learning & helping others.</p>
+          <p>I am a software developer with a passion for learning and helping others.</p>
           <a href="https://www.linkedin.com/in/james-hughes-24006713b/" target="_blank" rel="noreferrer">
             <LinkedInIcon />
           </a>
