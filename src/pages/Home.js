@@ -3,13 +3,15 @@ import LinkedInIcon from "@material-ui/icons/LinkedIn";
 import EmailIcon from "@material-ui/icons/Email";
 import GithubIcon from "@material-ui/icons/GitHub";
 import "../styles/Home.css";
+
+/*
 import {
   BrowserRouter as Router,
   Switch,
   Route,
   Link
 } from "react-router-dom";
-
+*/
 
 function Home() {
   return (
@@ -38,7 +40,7 @@ function Home() {
             <h2> Front-End</h2>
             <span>
               ReactJS, Redux, HTML, CSS, React Native, NPM,
-             BootStrap, MaterialUI, Yarn,
+             BootStrap, MaterialUI, Yarn, Api's
             </span>
           </li>
           <li className="item">
